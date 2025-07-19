@@ -19,7 +19,7 @@ with st.sidebar:
 # Main page
 st.title("👋 Welcome to My Portfolio")
 
-st.header("🧑‍💻 About Me")
+st.header("🧑‍💻 About")
 st.write("""
 Hi there! I'm a data enthusiast with a passion for transforming raw information into meaningful insights that solve real-world problems. 
 
